@@ -23,3 +23,5 @@ Results and Presentation:
   Accuracy metrics and confusion matrices
   Key visualizations created using Python’s data visualization libraries
   It is written in Bulgarian.
+
+Data link: https://www.kaggle.com/datasets/lodetomasi1995/income-classification/data
